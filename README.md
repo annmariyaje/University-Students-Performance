@@ -114,7 +114,9 @@ GPA differences between majors and countries are relatively small, with average 
 
 ## 📷 Dashboard Preview
 
-_Add your Power BI dashboard screenshot here._
+<img width="1350" height="757" alt="image" src="https://github.com/user-attachments/assets/9e8e1451-97bf-4da9-bdf1-efe7aa06b205" />
+
+
 
 ## 💡 Conclusion
 
