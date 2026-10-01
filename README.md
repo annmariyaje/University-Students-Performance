@@ -114,7 +114,7 @@ GPA differences between majors and countries are relatively small, with average 
 
 ## 📷 Dashboard Preview
 
-<img width="1350" height="757" alt="image" src="https://github.com/user-attachments/assets/9e8e1451-97bf-4da9-bdf1-efe7aa06b205" />
+<img width="1332" height="752" alt="image" src="https://github.com/user-attachments/assets/a26ecee4-96ee-4a40-b8d8-a5f539b99ab6" />
 
 
 
